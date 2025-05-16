@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <!-- Write code here -->
+        <ul>
+            <li> Apple </li>
+            <li> Banana </li>
+            <li> Orange </li>
+        </ul>
+    </body>
+</html>
