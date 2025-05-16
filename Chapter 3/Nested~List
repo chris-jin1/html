@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <!-- Write code here -->
+        <ol>
+            <li>Groceries
+                <ul>
+                    <li>Apples</li>
+                    <li>Bread</li>
+                    <li>Milk</li>
+                </ul>
+            </li>
+            <li>Electronics
+                <ul>
+                    <li>Headphones</li>
+                    <li>Charger</li>
+                </ul> 
+            </li>
+            <li>Clothing</li>           
+    </body>
+</html>
